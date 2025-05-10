@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "create:crushed_raw_gold"
+  },
+  "result": {
+    "amount": 120,
+    "tag": "forge:molten_gold"
+  },
+  "temperature": 700,
+  "time": 56
+}

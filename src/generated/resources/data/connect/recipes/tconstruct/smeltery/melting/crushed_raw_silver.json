@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "create:crushed_raw_silver"
+  },
+  "result": {
+    "amount": 120,
+    "tag": "forge:molten_silver"
+  },
+  "temperature": 790,
+  "time": 60
+}

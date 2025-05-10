@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "create:crushed_raw_nickel"
+  },
+  "result": {
+    "amount": 120,
+    "tag": "forge:molten_nickel"
+  },
+  "temperature": 950,
+  "time": 64
+}

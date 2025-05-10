@@ -1,0 +1,18 @@
+{
+  "type": "thermal:crystallizer",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 500
+    },
+    {
+      "item": "tconstruct:earth_slime_crystal"
+    }
+  ],
+  "result": [
+    {
+      "item": "tconstruct:earth_slime_crystal_cluster"
+    }
+  ],
+  "energy": 5000
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "create:crushed_raw_tin"
+  },
+  "result": {
+    "amount": 120,
+    "tag": "forge:molten_tin"
+  },
+  "temperature": 225,
+  "time": 36
+}

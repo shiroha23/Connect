@@ -1,0 +1,18 @@
+{
+  "type": "thermal:crystallizer",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 500
+    },
+    {
+      "item": "ae2:fluix_dust"
+    }
+  ],
+  "result": [
+    {
+      "item": "ae2:fluix_crystal"
+    }
+  ],
+  "energy": 5000
+}

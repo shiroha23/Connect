@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "create:crushed_raw_aluminum"
+  },
+  "result": {
+    "amount": 120,
+    "tag": "forge:molten_aluminum"
+  },
+  "temperature": 425,
+  "time": 44
+}

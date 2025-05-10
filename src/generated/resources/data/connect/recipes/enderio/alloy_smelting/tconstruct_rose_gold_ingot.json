@@ -1,0 +1,23 @@
+{
+  "type": "enderio:alloy_smelting",
+  "energy": 4000,
+  "experience": 0.3,
+  "inputs": [
+    {
+      "count": 3,
+      "ingredient": {
+        "tag": "forge:ingots/copper"
+      }
+    },
+    {
+      "count": 1,
+      "ingredient": {
+        "item": "minecraft:gold_ingot"
+      }
+    }
+  ],
+  "result": {
+    "item": "tconstruct:rose_gold_ingot",
+    "count": 4
+  }
+}

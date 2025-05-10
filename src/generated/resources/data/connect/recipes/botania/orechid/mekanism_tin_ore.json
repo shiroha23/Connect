@@ -1,0 +1,25 @@
+{
+  "type": "botania:orechid",
+  "input": {
+    "type": "block",
+    "block": "minecraft:stone"
+  },
+  "output": {
+    "type": "block",
+    "block": "mekanism:tin_ore"
+  },
+  "weight": 6500,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:mod_loaded",
+        "modid": "thermal"
+      }
+    }
+  ]
+}

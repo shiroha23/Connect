@@ -1,0 +1,34 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "value": [
+        {
+          "tag": "forge:ingots/gold"
+        },
+        {
+          "tag": "forge:dusts/gold"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "value": [
+        { 
+          "item": "minecraft:soul_soil" 
+        }, 
+        { 
+          "item": "minecraft:soul_sand" 
+        }
+      ],
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "enderio:soularium_ingot",
+      "count": 1
+    }
+  ],
+  "energy": 5600
+}

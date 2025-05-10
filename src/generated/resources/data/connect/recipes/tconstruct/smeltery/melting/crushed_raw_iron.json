@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "create:crushed_raw_iron"
+  },
+  "result": {
+    "amount": 120,
+    "tag": "forge:molten_iron"
+  },
+  "temperature": 800,
+  "time": 60
+}

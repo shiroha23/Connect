@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "create:crushed_raw_uranium"
+  },
+  "result": {
+    "amount": 120,
+    "tag": "forge:molten_uranium"
+  },
+  "temperature": 830,
+  "time": 60
+}
