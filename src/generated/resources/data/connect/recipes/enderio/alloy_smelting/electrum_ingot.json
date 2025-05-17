@@ -15,9 +15,11 @@
         "tag": "forge:ingots/silver"
       }
     }
-  ],
-  "result": {
+  ],  "result": {
     "count": 2,
-    "item": "thermal:electrum_ingot"
+    "base_ingredient": {
+      "item": "thermal:electrum_ingot",
+      "fallback": "immersiveengineering:ingot_electrum"
+    }
   }
 }
