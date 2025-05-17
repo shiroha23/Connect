@@ -1,0 +1,12 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "apotheosis:gem"
+  },
+  "result": [
+    {
+      "item": "apotheosis:gem_dust",
+      "count": 1
+    }
+  ]
+}

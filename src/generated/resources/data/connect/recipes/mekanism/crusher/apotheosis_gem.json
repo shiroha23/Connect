@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "apotheosis:gem"
+    }
+  },
+  "output": {
+    "item": "apotheosis:gem_dust"
+  }
+}

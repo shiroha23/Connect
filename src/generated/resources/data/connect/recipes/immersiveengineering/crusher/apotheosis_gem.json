@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3000,
+  "input": {
+    "item": "apotheosis:gem"
+  },
+  "result": {
+    "item": "apotheosis:gem_dust"
+  },
+  "secondaries": []
+}
