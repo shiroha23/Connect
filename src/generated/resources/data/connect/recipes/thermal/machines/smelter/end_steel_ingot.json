@@ -4,7 +4,7 @@
     {
       "value": [
         {
-          "tag": "forge:ingots/dark_steel"
+          "tag": "forge:end_stones"
         }
       ],
       "count": 1
@@ -12,7 +12,7 @@
     {
       "value": [
         {
-          "tag": "forge:end_stones"
+          "tag": "forge:ingots/dark_steel"
         }
       ],
       "count": 1

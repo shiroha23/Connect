@@ -3,22 +3,16 @@
   "ingredients": [
     {
       "value": [
-        {
-          "tag": "forge:ingots/gold"
-        },
-        {
-          "tag": "forge:dusts/gold"
+        { 
+          "tag": "minecraft:soul_fire_base_blocks"
         }
       ],
       "count": 1
     },
     {
       "value": [
-        { 
-          "item": "minecraft:soul_soil" 
-        }, 
-        { 
-          "item": "minecraft:soul_sand" 
+        {
+          "tag": "forge:ingots/gold"
         }
       ],
       "count": 1

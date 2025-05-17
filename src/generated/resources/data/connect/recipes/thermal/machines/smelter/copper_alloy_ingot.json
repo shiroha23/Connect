@@ -5,9 +5,6 @@
       "value": [
         {
           "tag": "forge:ingots/copper"
-        },
-        {
-          "tag": "forge:dusts/copper"
         }
       ],
       "count": 1

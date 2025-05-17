@@ -13,9 +13,6 @@
       "value": [
         {
           "tag": "forge:ingots/iron"
-        },
-        {
-          "tag": "forge:dusts/iron"
         }
       ],
       "count": 1
