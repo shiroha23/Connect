@@ -15,17 +15,15 @@
         "tag": "forge:ingots/silver"
       }
     }
-  ],  "result": {
+  ],
+  "result": {
     "count": 2,
-    "item": "immersiveengineering:ingot_electrum"
+    "item": "thermal:electrum_ingot"
   },
   "conditions": [
     {
-      "type": "forge:not",
-      "value": {
-        "type": "forge:mod_loaded",
-        "modid": "thermal"
-      }
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
     }
   ]
 }
