@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:coal_coke"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "thermal:steel_ingot"
+    }
+  ]
+}
