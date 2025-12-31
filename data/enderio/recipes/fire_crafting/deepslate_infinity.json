@@ -1,0 +1,13 @@
+{
+  "type": "enderio:fire_crafting",
+  "base_blocks": [
+    {
+      "block": "minecraft:deepslate"
+    }
+  ],
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "loot_table": "connect:enderio/fire_crafting/deepslate_infinity",
+  "max_item_drops": 1
+}

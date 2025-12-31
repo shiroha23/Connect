@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_eye"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ghast_tear",
+    "chance": 0.5
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "settings": {
+      "structures": {
+        "structures": {}
+      },
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:deepslate",
+          "height": 63
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 59
+        },
+        {
+          "block": "minecraft:dirt",
+          "height": 3
+        },
+        {
+          "block": "minecraft:grass_block",
+          "height": 1
+        }
+      ],
+      "biome": "minecraft:the_void"
+    },
+    "type": "minecraft:flat"
+  }
+}

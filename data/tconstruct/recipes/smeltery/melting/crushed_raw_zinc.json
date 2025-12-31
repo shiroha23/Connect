@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "create:crushed_raw_zinc"
+  },
+  "result": {
+    "amount": 120,
+    "tag": "forge:molten_zinc"
+  },
+  "temperature": 420,
+  "time": 44
+}

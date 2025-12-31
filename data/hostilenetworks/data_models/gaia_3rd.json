@@ -1,0 +1,35 @@
+{
+    "entity": "extrabotany:gaia_3rd",
+    "name": "entity.extrabotany.gaia_3rd",
+    "name_color": "#920000",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 3175,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:end_prediction"
+    },
+	"trivia": "custom.trivia.chaos_guardian",
+    "fabricator_drops": [
+        {
+            "item": "extrabotany:pandoras_box",
+            "count": 1
+        }
+    ],
+	"tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        256,
+        1024,
+        2048
+    ]
+}

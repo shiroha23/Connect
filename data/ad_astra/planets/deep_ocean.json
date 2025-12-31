@@ -1,0 +1,10 @@
+{
+  "dimension": "connect:deep_ocean",
+  "gravity": 9.807,
+  "orbit": "ad_astra:deep_ocean_orbit",
+  "oxygen": true,
+  "solar_power": 16,
+  "solar_system": "ad_astra:proxima_centauri",
+  "temperature": 15,
+  "tier": 4
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "ae2:engineering_processor_press"
+    }
+  ],
+  "keepHeldItem": true,
+  "results": [
+    {
+      "item": "ae2:engineering_processor_press"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "enderio:alloy_smelting",
+  "energy": 4000,
+  "experience": 0.3,
+  "inputs": [
+    {
+      "count": 3,
+      "ingredient": {
+        "item": "tconstruct:cobalt_ingot"
+      }
+    },
+    {
+      "count": 1,
+      "ingredient": {
+        "item": "minecraft:netherite_scrap"
+      }
+    }
+  ],
+  "result": {
+    "item": "tconstruct:manyullyn_ingot",
+    "count": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "apotheosis:gem"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "item": "apotheosis:gem_dust"
+    }
+  ]
+}

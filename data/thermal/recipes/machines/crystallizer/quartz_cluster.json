@@ -1,0 +1,18 @@
+{
+  "type": "thermal:crystallizer",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 2000
+    },
+    {
+      "item": "ae2:certus_quartz_crystal"
+    }
+  ],
+  "result": [
+    {
+      "item": "ae2:quartz_cluster"
+    }
+  ],
+  "energy": 20000
+}
