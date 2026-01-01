@@ -1,0 +1,44 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:coal_coke"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "immersiveengineering:ingot_steel"
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:or",
+        "values": [
+          {
+            "type": "forge:mod_loaded",
+            "modid": "thermal"
+          },
+          {
+            "type": "forge:mod_loaded",
+            "modid": "mekanism"
+          },
+          {
+            "type": "forge:mod_loaded",
+            "modid": "tconstruct"
+          }
+        ]
+      }
+    }
+  ]
+}

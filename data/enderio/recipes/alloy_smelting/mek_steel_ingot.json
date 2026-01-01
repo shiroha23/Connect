@@ -1,29 +1,29 @@
 {
   "type": "enderio:alloy_smelting",
-  "energy": 4000,
+  "energy": 4800,
   "experience": 0.3,
   "inputs": [
     {
-      "count": 3,
+      "count": 1,
       "ingredient": {
-        "tag": "forge:ingots/copper"
+        "tag": "forge:ingots/iron"
       }
     },
     {
       "count": 1,
       "ingredient": {
-        "item": "minecraft:gold_ingot"
+        "tag": "forge:coal_coke"
       }
     }
   ],
   "result": {
-    "item": "tconstruct:rose_gold_ingot",
-    "count": 4
+    "count": 1,
+    "item": "mekanism:ingot_steel"
   },
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "tconstruct"
+      "modid": "mekanism"
     },
     {
       "type": "forge:not",
