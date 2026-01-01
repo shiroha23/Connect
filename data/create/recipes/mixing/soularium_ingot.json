@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:soul_fire_base_blocks"
+    },
+    {
+      "tag": "forge:ingots/gold"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "enderio:soularium_ingot"
+    }
+  ]
+}
