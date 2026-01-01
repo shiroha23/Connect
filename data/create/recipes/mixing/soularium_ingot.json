@@ -3,7 +3,7 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "tag": "forge:soul_fire_base_blocks"
+      "tag": "c:soul_ground"
     },
     {
       "tag": "forge:ingots/gold"

@@ -1,7 +1,7 @@
 {
   "type": "immersiveengineering:alloy",
   "input0": {
-    "tag": "minecraft:soul_fire_base_blocks"
+    "tag": "c:soul_ground"
   },
   "input1": {
     "tag": "forge:ingots/gold"
