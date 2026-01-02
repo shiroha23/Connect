@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "forge:stone"
+  },
+  "cast_consumed": true,
+  "cooling_time": 200,
+  "fluid": {
+    "amount": 1000,
+    "fluid": "bloodmagic:life_essence_fluid"
+  },
+  "result": "bloodmagic:blankslate"
+}

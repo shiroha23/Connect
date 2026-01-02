@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "bloodmagic:basemonstersoul"
+  },
+  "cast_consumed": true,
+  "cooling_time": 80,
+  "fluid": {
+    "amount": 400,
+    "fluid": "bloodmagic:life_essence_fluid"
+  },
+  "result": "youkaishomecoming:flesh"
+}

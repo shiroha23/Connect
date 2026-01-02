@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:altar",
+  "altarSyphon": 400,
+  "consumptionRate": 5,
+  "drainRate": 1,
+  "input": {
+    "item": "bloodmagic:basemonstersoul"
+  },
+  "output": {
+    "item": "youkaishomecoming:flesh"
+  },
+  "upgradeLevel": 0
+}

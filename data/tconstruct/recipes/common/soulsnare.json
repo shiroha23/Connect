@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "bookshelf:strings"
+  },
+  "cast_consumed": true,
+  "cooling_time": 100,
+  "fluid": {
+    "amount": 500,
+    "fluid": "bloodmagic:life_essence_fluid"
+  },
+  "result": "bloodmagic:soulsnare"
+}

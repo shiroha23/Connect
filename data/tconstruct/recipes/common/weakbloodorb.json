@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "minecraft:diamond"
+  },
+  "cast_consumed": true,
+  "cooling_time": 400,
+  "fluid": {
+    "amount": 2000,
+    "fluid": "bloodmagic:life_essence_fluid"
+  },
+  "result": "bloodmagic:weakbloodorb"
+}
