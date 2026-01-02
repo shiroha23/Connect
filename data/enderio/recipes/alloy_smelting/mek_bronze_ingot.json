@@ -19,18 +19,5 @@
   "result": {
     "count": 4,
     "item": "mekanism:ingot_bronze"
-  },
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type": "forge:not",
-      "value": {
-        "type": "forge:mod_loaded",
-        "modid": "thermal"
-      }
-    }
-  ]
+  }
 }

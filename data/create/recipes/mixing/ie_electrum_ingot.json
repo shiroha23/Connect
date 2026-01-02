@@ -14,18 +14,5 @@
       "count": 2,
       "item": "immersiveengineering:ingot_electrum"
     }
-  ],
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersiveengineering"
-    },
-    {
-      "type": "forge:not",
-      "value": {
-        "type": "forge:mod_loaded",
-        "modid": "thermal"
-      }
-    }
   ]
 }

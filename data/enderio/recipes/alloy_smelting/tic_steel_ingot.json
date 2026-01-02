@@ -19,27 +19,5 @@
   "result": {
     "count": 1,
     "item": "thermal:steel_ingot"
-  },
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "tconstruct"
-    },
-    {
-      "type": "forge:not",
-      "value": {
-        "type": "forge:or",
-        "values": [
-          {
-            "type": "forge:mod_loaded",
-            "modid": "thermal"
-          },
-          {
-            "type": "forge:mod_loaded",
-            "modid": "mekanism"
-          }
-        ]
-      }
-    }
-  ]
+  }
 }
