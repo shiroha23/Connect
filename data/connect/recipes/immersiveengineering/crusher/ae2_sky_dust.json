@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3000,
+  "input": {
+    "item": "ae2:sky_stone_block"
+  },
+  "result": {
+    "item": "ae2:sky_dust"
+  },
+  "secondaries": []
+}

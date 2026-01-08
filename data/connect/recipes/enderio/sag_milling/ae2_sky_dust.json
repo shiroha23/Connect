@@ -1,0 +1,16 @@
+{
+  "type": "enderio:sag_milling",
+  "energy": 2400,
+  "input": {
+    "item": "ae2:sky_stone_block"
+  },
+  "outputs": [
+    {
+      "chance": 1.0,
+      "item": {
+        "item": "ae2:sky_dust"
+      },
+      "optional": false
+    }
+  ]
+}
