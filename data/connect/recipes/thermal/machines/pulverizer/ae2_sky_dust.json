@@ -1,0 +1,12 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "ae2:sky_stone_block"
+  },
+  "result": [
+    {
+      "item": "ae2sky_dust",
+      "count": 1
+    }
+  ]
+}
