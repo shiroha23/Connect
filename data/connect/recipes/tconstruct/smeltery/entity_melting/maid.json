@@ -2,7 +2,7 @@
   "type": "tconstruct:entity_melting",
   "damage": 2,
   "entity": {
-    "type": "minecraft:wandering_trader"
+    "type": "touhou_little_maid:maid"
   },
   "result": {
     "amount": 20,

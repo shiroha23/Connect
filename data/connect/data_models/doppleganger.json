@@ -19,14 +19,6 @@
         {
             "item": "botania:life_essence",
             "count": 8
-        },
-        {
-            "item": "extrabotany:zwei_reward_bag",
-            "count": 2
-        },
-        {
-            "item": "extrabotany:drei_reward_bag",
-            "count": 1
         }
     ],
     "data_per_kill": [

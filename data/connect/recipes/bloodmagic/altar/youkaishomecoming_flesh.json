@@ -4,7 +4,7 @@
   "consumptionRate": 5,
   "drainRate": 1,
   "input": {
-    "item": "bloodmagic:basemonstersoul"
+    "tag": "forge:raw_meat"
   },
   "output": {
     "item": "youkaishomecoming:flesh"
