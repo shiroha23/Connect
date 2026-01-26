@@ -17,5 +17,15 @@
       "count": 3,
       "item": "thermal:invar_ingot"
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
   ]
 }

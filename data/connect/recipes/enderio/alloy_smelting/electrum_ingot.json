@@ -15,8 +15,19 @@
         "tag": "forge:ingots/silver"
       }
     }
-  ],  "result": {
+  ],
+  "result": {
     "count": 2,
     "item": "thermal:electrum_ingot"
-  }
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "enderio"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ]
 }

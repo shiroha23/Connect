@@ -8,5 +8,15 @@
     "tag": "forge:molten_iron"
   },
   "temperature": 800,
-  "time": 60
+  "time": 60,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
 }

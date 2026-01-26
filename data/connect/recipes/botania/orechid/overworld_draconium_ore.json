@@ -8,5 +8,15 @@
     "type": "block",
     "block": "draconicevolution:overworld_draconium_ore"
   },
-  "weight": 400
+  "weight": 400,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "draconicevolution"
+    }
+  ]
 }

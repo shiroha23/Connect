@@ -10,5 +10,15 @@
     {
       "item": "apotheosis:gem_dust"
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "apotheosis"
+    }
   ]
 }

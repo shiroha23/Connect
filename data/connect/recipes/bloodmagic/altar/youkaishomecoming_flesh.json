@@ -9,5 +9,15 @@
   "output": {
     "item": "youkaishomecoming:flesh"
   },
-  "upgradeLevel": 0
+  "upgradeLevel": 0,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bloodmagic"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "youkaishomecoming"
+    }
+  ]
 }

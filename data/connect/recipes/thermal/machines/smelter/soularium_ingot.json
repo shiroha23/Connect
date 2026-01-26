@@ -3,7 +3,7 @@
   "ingredients": [
     {
       "value": [
-        { 
+        {
           "tag": "c:soul_ground"
         }
       ],
@@ -24,5 +24,15 @@
       "count": 1
     }
   ],
-  "energy": 5600
+  "energy": 5600,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "enderio"
+    }
+  ]
 }

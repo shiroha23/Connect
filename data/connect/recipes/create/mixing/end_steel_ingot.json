@@ -17,5 +17,15 @@
       "count": 1,
       "item": "enderio:end_steel_ingot"
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "enderio"
+    }
   ]
 }

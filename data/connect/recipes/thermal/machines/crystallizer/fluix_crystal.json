@@ -14,5 +14,15 @@
       "item": "ae2:fluix_crystal"
     }
   ],
-  "energy": 20000
+  "energy": 20000,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    }
+  ]
 }

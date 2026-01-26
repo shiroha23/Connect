@@ -7,5 +7,15 @@
   "result": {
     "item": "thermal:ender_pearl_dust"
   },
-  "secondaries": []
+  "secondaries": [],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ]
 }

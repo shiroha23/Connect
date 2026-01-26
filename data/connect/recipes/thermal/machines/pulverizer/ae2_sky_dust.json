@@ -8,5 +8,15 @@
       "item": "ae2:sky_dust",
       "count": 1
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    }
   ]
 }

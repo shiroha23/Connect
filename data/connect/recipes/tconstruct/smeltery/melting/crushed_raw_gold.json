@@ -8,5 +8,15 @@
     "tag": "forge:molten_gold"
   },
   "temperature": 700,
-  "time": 56
+  "time": 56,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
 }

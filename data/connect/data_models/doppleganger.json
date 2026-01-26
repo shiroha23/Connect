@@ -26,5 +26,15 @@
         12,
         30,
         45
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "hostilenetworks"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "botania"
+        }
     ]
 }

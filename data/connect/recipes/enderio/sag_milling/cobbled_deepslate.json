@@ -19,5 +19,11 @@
       },
       "optional": false
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "enderio"
+    }
   ]
 }

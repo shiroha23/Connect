@@ -9,5 +9,19 @@
     "amount": 400,
     "fluid": "bloodmagic:life_essence_fluid"
   },
-  "result": "youkaishomecoming:flesh"
+  "result": "youkaishomecoming:flesh",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bloodmagic"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "youkaishomecoming"
+    }
+  ]
 }

@@ -12,5 +12,15 @@
     },
     "count": 2
   },
-  "time": 200
+  "time": 200,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "enderio"
+    }
+  ]
 }

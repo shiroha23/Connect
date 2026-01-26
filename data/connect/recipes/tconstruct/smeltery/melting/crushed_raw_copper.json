@@ -8,5 +8,15 @@
     "tag": "forge:molten_copper"
   },
   "temperature": 500,
-  "time": 48
+  "time": 48,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
 }

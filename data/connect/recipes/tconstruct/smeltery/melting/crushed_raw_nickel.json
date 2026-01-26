@@ -8,5 +8,15 @@
     "tag": "forge:molten_nickel"
   },
   "temperature": 950,
-  "time": 64
+  "time": 64,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
 }

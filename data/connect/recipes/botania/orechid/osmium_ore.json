@@ -8,5 +8,15 @@
     "type": "block",
     "block": "mekanism:osmium_ore"
   },
-  "weight": 3500
+  "weight": 3500,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
 }

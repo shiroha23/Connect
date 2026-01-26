@@ -9,5 +9,11 @@
     "minecraft:overworld"
   ],
   "loot_table": "connect:enderio/fire_crafting/deepslate_infinity",
-  "max_item_drops": 1
+  "max_item_drops": 1,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "enderio"
+    }
+  ]
 }

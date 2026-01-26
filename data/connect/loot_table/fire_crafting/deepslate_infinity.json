@@ -19,5 +19,11 @@
       "rolls": 1.0
     }
   ],
-  "random_sequence": "connect:enderio/fire_crafting/deepslate_infinity"
+  "random_sequence": "connect:enderio/fire_crafting/deepslate_infinity",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "enderio"
+    }
+  ]
 }

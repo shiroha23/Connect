@@ -8,5 +8,15 @@
     "type": "block",
     "block": "draconicevolution:deepslate_draconium_ore"
   },
-  "weight": 50
+  "weight": 50,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "draconicevolution"
+    }
+  ]
 }

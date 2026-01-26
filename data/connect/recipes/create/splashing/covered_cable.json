@@ -9,5 +9,15 @@
     {
       "item": "ae2:fluix_covered_cable"
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    }
   ]
 }

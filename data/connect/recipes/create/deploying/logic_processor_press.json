@@ -13,5 +13,15 @@
     {
       "item": "ae2:logic_processor_press"
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "ae2"
+    }
   ]
 }

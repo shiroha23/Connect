@@ -31,5 +31,15 @@
         256,
         1024,
         2048
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "hostilenetworks"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "extrabotany"
+        }
     ]
 }

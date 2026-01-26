@@ -14,5 +14,15 @@
       "item": "tconstruct:earth_slime_crystal_cluster"
     }
   ],
-  "energy": 20000
+  "energy": 20000,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ]
 }

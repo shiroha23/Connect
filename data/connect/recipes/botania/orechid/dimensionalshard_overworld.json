@@ -8,5 +8,15 @@
     "type": "block",
     "block": "rftoolsbase:dimensionalshard_overworld"
   },
-  "weight": 1200
+  "weight": 1200,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "botania"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rftoolsbase"
+    }
+  ]
 }

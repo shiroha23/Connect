@@ -14,5 +14,15 @@
       "count": 1,
       "item": "thermal:steel_ingot"
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
   ]
 }

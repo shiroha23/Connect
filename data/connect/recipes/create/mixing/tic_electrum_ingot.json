@@ -14,5 +14,15 @@
       "count": 2,
       "item": "tconstruct:electrum_ingot"
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
   ]
 }

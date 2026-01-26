@@ -7,5 +7,19 @@
   "result": {
     "amount": 20,
     "fluid": "bloodmagic:life_essence_fluid"
-  }
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "touhou_little_maid"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bloodmagic"
+    }
+  ]
 }

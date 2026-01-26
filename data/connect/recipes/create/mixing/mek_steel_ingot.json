@@ -14,5 +14,15 @@
       "count": 1,
       "item": "mekanism:ingot_steel"
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    }
   ]
 }

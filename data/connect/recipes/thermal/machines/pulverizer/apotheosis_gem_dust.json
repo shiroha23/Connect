@@ -8,5 +8,15 @@
       "item": "apotheosis:gem_dust",
       "count": 1
     }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "apotheosis"
+    }
   ]
 }

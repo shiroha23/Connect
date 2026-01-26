@@ -25,5 +25,15 @@
   "result": {
     "count": 4,
     "item": "thermal:lumium_ingot"
-  }
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "enderio"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    }
+  ]
 }

@@ -8,5 +8,15 @@
     "tag": "forge:molten_lead"
   },
   "temperature": 330,
-  "time": 40
+  "time": 40,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
 }

@@ -24,5 +24,15 @@
       "count": 2
     }
   ],
-  "energy": 3200
+  "energy": 3200,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "thermal"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "enderio"
+    }
+  ]
 }

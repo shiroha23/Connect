@@ -8,5 +8,15 @@
     "tag": "forge:molten_tin"
   },
   "temperature": 225,
-  "time": 36
+  "time": 36,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
 }

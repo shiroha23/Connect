@@ -9,5 +9,15 @@
     "amount": 1000,
     "fluid": "bloodmagic:life_essence_fluid"
   },
-  "result": "bloodmagic:blankslate"
+  "result": "bloodmagic:blankslate",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bloodmagic"
+    }
+  ]
 }
